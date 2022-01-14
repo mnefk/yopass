@@ -32,7 +32,7 @@ services:
       - "11211"
 
   yopass:
-    image: jhaals/yopass
+    image: mnefk/yopass
     restart: always
     environment:
       - VIRTUAL_HOST=secret.x12.ch
