@@ -46,7 +46,7 @@
   "secret": {
     "titleDatei": "Datei heruntergeladen",
     "titleMessage": "Entschlüsselte Nachricht",
-    "subtitleMessage": "Dieses Geheimnis ist möglicherweise nicht mehr einsehbar, speichern Sie es jetzt!
+    "subtitleMessage": "Dieses Geheimnis ist möglicherweise nicht mehr einsehbar, speichern Sie es jetzt!",
     "buttonCopy": "Kopieren"
   },
   "delete": {
