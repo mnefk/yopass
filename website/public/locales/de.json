@@ -1,0 +1,93 @@
+{
+  "create": {
+    "title": "Nachricht verschlüsseln",
+    "inputSecretLabel": "Geheime Nachricht",
+    "inputSecretPlaceholder": "Nachricht, die lokal in Ihrem Browser verschlüsselt werden soll",
+    "buttonEncrypt": "Nachricht verschlüsseln",
+    "buttonEncryptLoading": "Nachricht verschlüsseln...",
+    "inputOneTimeLabel": "Einmaliges Herunterladen",
+    "inputPasswordLabel": "Benutzerdefinierter Entschlüsselungsschlüssel",
+    "inputGenerateLabel": "Entschlüsselungsschlüssel generieren"
+  },
+  "upload": {
+    "title": "Datei zum Hochladen ablegen",
+    "caption": "Der Datei-Upload ist für kleine Dateien wie ssh-Schlüssel und Zertifikate gedacht.",
+    "errorFileTooLarge": "Datei ist zu gross"
+  },
+  "display": {
+    "titleFetching": "Abruf aus der Datenbank, bitte warten...",
+    "titleDecrypting": "Entschlüsseln, bitte warten...",
+    "titleDecryptionKey": "Entschlüsselungsschlüssel eingeben",
+    "captionDecryptionKey": "Aktualisieren Sie dieses Fenster nicht, da das Geheimnis möglicherweise auf einen einmaligen Download beschränkt ist,
+    "inputDecryptionKeyPlaceholder": "Entschlüsselungsschlüssel",
+    "inputDecryptionKeyLabel": "Ein Entschlüsselungsschlüssel ist erforderlich, bitte geben Sie ihn unten ein",
+    "errorInvalidPassword": "Ungültiges Passwort, bitte versuchen Sie es erneut",
+    "buttonDecrypt": "Geheimnis entschlüsseln"
+  },
+  "error": {
+    "title": "Geheimnis existiert nicht",
+    "subtitle": "Dies könnte durch einen der folgenden Gründe verursacht werden",
+    "titleOpened": "Geöffnet vor",
+    "subtitleOpenedBefore": "Ein Geheimnis kann auf einen einzigen Download beschränkt sein. Es könnte verloren gehen, weil der Absender auf diesen Link geklickt hat, bevor Sie ihn angesehen haben.",
+    "subtitleOpenedCompromised": "Das Geheimnis könnte kompromittiert und von einer anderen Person gelesen worden sein. Sie sollten den Absender kontaktieren und ein neues Geheimnis anfordern.",
+    "titleBrokenLink": "Gebrochener Link",
+    "subtitleBrokenLink": "Der Link muss perfekt übereinstimmen, damit die Entschlüsselung funktioniert, es könnten einige magische Ziffern fehlen.",
+    "titleExpired": "Abgelaufen",
+    "subtitleExpired": "Kein Geheimnis hält ewig. Alle gespeicherten Geheimnisse laufen ab und zerstören sich automatisch. Die Lebensdauer variiert von einer Stunde bis zu einer Woche."
+  },
+  "result": {
+    "title": "Geheimnis in der Datenbank gespeichert",
+    "subtitleDownloadOnce": "Denken Sie daran, dass Geheimnisse nur einmal heruntergeladen werden können, wenn nicht anders festgelegt. Also öffnen Sie den Link nicht selbst.",
+    "subtitleChannel": "Der vorsichtige Benutzer sollte den Entschlüsselungsschlüssel in einem separaten Kommunikationskanal senden.",
+    "rowLabelOneClick": "Ein-Klick-Link",
+    "rowLabelShortLink": "Kurzer Link",
+    "rowLabelDecryptionKey": "Decryption Key"
+  },
+  "secret": {
+    "titleDatei": "Datei heruntergeladen",
+    "titleMessage": "Entschlüsselte Nachricht",
+    "subtitleMessage": "Dieses Geheimnis ist möglicherweise nicht mehr einsehbar, speichern Sie es jetzt!
+    "buttonCopy": "Kopieren"
+  },
+  "delete": {
+    "buttonDelete": "Löschen",
+    "messageDeleted": "Das Geheimnis wurde vom Server entfernt!",
+    "dialogTitle": "Das Geheimnis löschen?",
+    "dialogMessage": "Sind Sie sicher, dass Sie dieses Geheimnis entfernen wollen?",
+    "dialogProgress": "Löschung...",
+    "dialogConfirm": "Löschen",
+    "dialogCancel": "Abbrechen"
+  },
+  "attribution": {
+    "createdBy": "Erstellt von",
+    "translatedBy": "Übersetzt von",
+    "translatorName": "",
+    "translatorLink": ""
+  },
+  "expiration": {
+    "legend": "Die verschlüsselte Nachricht wird automatisch gelöscht nach",
+    "optionOneHourLabel": "Eine Stunde",
+    "optionOneDayLabel": "Ein Tag",
+    "optionOneWeekLabel": "Eine Woche"
+  },
+  "features": {
+    "title": "Geheimnisse sicher und einfach teilen",
+    "subtitle": "Yopass wurde entwickelt, um die Menge der in E-Mails und Chats gespeicherten Klartextpasswörter zu reduzieren, indem ein kurzlebiger Link verschlüsselt und generiert wird, der nur einmal angesehen werden kann.",
+    "featureEndToEndTitle": "Ende-zu-Ende-Verschlüsselung",
+    "featureEndToEndText": "Die Ver- und Entschlüsselung wird lokal im Browser durchgeführt. Der Schlüssel wird niemals bei yopass gespeichert.",
+    "featureSelfDestructionTitle": "Selbstzerstörung",
+    "featureSelfDestructionText": "Verschlüsselte Nachrichten haben eine feste Lebensdauer und werden nach Ablauf automatisch gelöscht.",
+    "featureOneTimeTitle": "Einmalige Downloads",
+    "featureOneTimeText": "Die verschlüsselte Nachricht kann nur einmal heruntergeladen werden, was das Risiko verringert, dass jemand Ihre Geheimnisse ausspäht.",
+    "featureSimpleSharingTitle": "Einfaches Teilen",
+    "featureSimpleSharingText": "Yopass generiert einen eindeutigen Link für die verschlüsselte Datei oder Nachricht mit einem Klick. Das Entschlüsselungspasswort kann alternativ separat gesendet werden.",
+    "featureNoAccountsTitle": "Keine Konten erforderlich",
+    "featureNoAccountsText": "Die Freigabe sollte schnell und einfach sein; außer dem verschlüsselten Geheimnis werden keine weiteren Informationen in der Datenbank gespeichert.",
+    "featureOpenSourceTitle": "Open-Source-Software",
+    "featureOpenSourceText": "Die Verschlüsselungsmechanismen von Yopass basieren auf Open-Source-Software, was volle Transparenz mit der Möglichkeit zur Überprüfung und Einreichung von Funktionen bedeutet."
+  },
+  "header": {
+    "buttonHome": "Home",
+    "buttonUpload": "Upload"
+  }
+}
