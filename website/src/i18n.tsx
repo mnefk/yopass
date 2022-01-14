@@ -12,7 +12,7 @@ i18n
       loadPath: process.env.PUBLIC_URL + '/locales/{{lng}}.json',
     },
 
-    fallbackLng: process.env.REACT_APP_FALLBACK_LANGUAGE || 'en',
+    fallbackLng: process.env.REACT_APP_FALLBACK_LANGUAGE || 'de',
     debug: false,
 
     // have a common namespace used around the full app
