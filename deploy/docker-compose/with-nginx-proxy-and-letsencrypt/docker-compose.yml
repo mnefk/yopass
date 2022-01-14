@@ -6,7 +6,7 @@ services:
     restart: always
     ports:
       - "80:80"
-      - "443:443"
+      - "10443:443"
     volumes:
       - certs:/etc/nginx/certs
       - vhost.d:/etc/nginx/vhost.d
@@ -35,9 +35,9 @@ services:
     image: jhaals/yopass
     restart: always
     environment:
-      - VIRTUAL_HOST=subdomain.yourdomain.tld
-      - LETSENCRYPT_HOST=subdomain.yourdomain.tld
-      - LETSENCRYPT_EMAIL=mail@yourdomain.tld
+      - VIRTUAL_HOST=secret.x12.ch
+      - LETSENCRYPT_HOST=secret.x12.ch
+      - LETSENCRYPT_EMAIL=m.frick@x12.ch
     command: "--memcached=memcached:11211 --port 80"
     expose:
       - "80"
