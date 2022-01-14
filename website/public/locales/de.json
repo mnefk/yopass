@@ -18,7 +18,7 @@
     "titleFetching": "Abruf aus der Datenbank, bitte warten...",
     "titleDecrypting": "Entschlüsseln, bitte warten...",
     "titleDecryptionKey": "Entschlüsselungsschlüssel eingeben",
-    "captionDecryptionKey": "Aktualisieren Sie dieses Fenster nicht, da das Geheimnis möglicherweise auf einen einmaligen Download beschränkt ist,
+    "captionDecryptionKey": "Aktualisieren Sie dieses Fenster nicht, da das Geheimnis möglicherweise auf einen einmaligen Download beschränkt ist",
     "inputDecryptionKeyPlaceholder": "Entschlüsselungsschlüssel",
     "inputDecryptionKeyLabel": "Ein Entschlüsselungsschlüssel ist erforderlich, bitte geben Sie ihn unten ein",
     "errorInvalidPassword": "Ungültiges Passwort, bitte versuchen Sie es erneut",
