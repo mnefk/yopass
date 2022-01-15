@@ -14,7 +14,7 @@ export const Header = () => {
       <Toolbar>
         <Link href={home} color="inherit" underline="none">
           <Typography variant="h6" component="div">
-            Yopass
+            Zettapass
             <Box
               sx={{
                 verticalAlign: 'middle',
