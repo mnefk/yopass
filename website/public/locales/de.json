@@ -72,19 +72,19 @@
   },
   "features": {
     "title": "Geheimnisse sicher und einfach teilen",
-    "subtitle": "Yopass wurde entwickelt, um die Menge der in E-Mails und Chats gespeicherten Klartextpasswörter zu reduzieren, indem ein kurzlebiger Link verschlüsselt und generiert wird, der nur einmal angesehen werden kann.",
+    "subtitle": "Zettapass dient dazu, um die Menge der in E-Mails und Chats gespeicherten Klartextpasswörter zu eliminieren, indem ein kurzlebiger Link verschlüsselt und generiert wird, der nur einmal angesehen werden kann.",
     "featureEndToEndTitle": "Ende-zu-Ende-Verschlüsselung",
-    "featureEndToEndText": "Die Ver- und Entschlüsselung wird lokal im Browser durchgeführt. Der Schlüssel wird niemals bei yopass gespeichert.",
+    "featureEndToEndText": "Die Ver- und Entschlüsselung wird lokal im Browser durchgeführt. Der Schlüssel wird niemals bei Zettapass gespeichert.",
     "featureSelfDestructionTitle": "Selbstzerstörung",
     "featureSelfDestructionText": "Verschlüsselte Nachrichten haben eine feste Lebensdauer und werden nach Ablauf automatisch gelöscht.",
     "featureOneTimeTitle": "Einmalige Downloads",
     "featureOneTimeText": "Die verschlüsselte Nachricht kann nur einmal heruntergeladen werden, was das Risiko verringert, dass jemand Ihre Geheimnisse ausspäht.",
     "featureSimpleSharingTitle": "Einfaches Teilen",
-    "featureSimpleSharingText": "Yopass generiert einen eindeutigen Link für die verschlüsselte Datei oder Nachricht mit einem Klick. Das Entschlüsselungspasswort kann alternativ separat gesendet werden.",
+    "featureSimpleSharingText": "Zettapass generiert einen eindeutigen Link für die verschlüsselte Datei oder Nachricht mit einem Klick. Das Entschlüsselungspasswort kann alternativ separat gesendet werden.",
     "featureNoAccountsTitle": "Keine Konten erforderlich",
     "featureNoAccountsText": "Die Freigabe sollte schnell und einfach sein; außer dem verschlüsselten Geheimnis werden keine weiteren Informationen in der Datenbank gespeichert.",
     "featureOpenSourceTitle": "Open-Source-Software",
-    "featureOpenSourceText": "Die Verschlüsselungsmechanismen von Yopass basieren auf Open-Source-Software, was volle Transparenz mit der Möglichkeit zur Überprüfung und Einreichung von Funktionen bedeutet."
+    "featureOpenSourceText": "Die Verschlüsselungsmechanismen von Zettapass basieren auf Open-Source-Software, was volle Transparenz mit der Möglichkeit zur Überprüfung und Einreichung von Funktionen bedeutet."
   },
   "header": {
     "buttonHome": "Home",
