@@ -27,7 +27,7 @@
   "error": {
     "title": "Geheimnis existiert nicht",
     "subtitle": "Dies könnte durch einen der folgenden Gründe verursacht werden",
-    "titleOpened": "Geöffnet vor",
+    "titleOpened": "Bereits geöffnet",
     "subtitleOpenedBefore": "Ein Geheimnis kann auf einen einzigen Download beschränkt sein. Es könnte verloren gehen, weil der Absender auf diesen Link geklickt hat, bevor Sie ihn angesehen haben.",
     "subtitleOpenedCompromised": "Das Geheimnis könnte kompromittiert und von einer anderen Person gelesen worden sein. Sie sollten den Absender kontaktieren und ein neues Geheimnis anfordern.",
     "titleBrokenLink": "Gebrochener Link",
