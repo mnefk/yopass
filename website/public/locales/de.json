@@ -27,20 +27,20 @@
   "error": {
     "title": "Geheimnis existiert nicht",
     "subtitle": "Dies könnte durch einen der folgenden Gründe verursacht werden",
-    "titleOpened": "Bereits geöffnet",
-    "subtitleOpenedBefore": "Ein Geheimnis kann auf einen einzigen Download beschränkt sein. Es könnte verloren gehen, weil der Absender auf diesen Link geklickt hat, bevor Sie ihn angesehen haben.",
-    "subtitleOpenedCompromised": "Das Geheimnis könnte kompromittiert und von einer anderen Person gelesen worden sein. Sie sollten den Absender kontaktieren und ein neues Geheimnis anfordern.",
-    "titleBrokenLink": "Gebrochener Link",
-    "subtitleBrokenLink": "Der Link muss perfekt übereinstimmen, damit die Entschlüsselung funktioniert, es könnten einige magische Ziffern fehlen.",
-    "titleExpired": "Abgelaufen",
-    "subtitleExpired": "Kein Geheimnis hält ewig. Alle gespeicherten Geheimnisse laufen ab und zerstören sich automatisch. Die Lebensdauer variiert von einer Stunde bis zu einer Woche."
+    "titleOpened": "Link wurde bereits geöffnet",
+    "subtitleOpenedBefore": "Die Verschlüsselung gilt für einen einzigen Download. Möglicherweise hat der Absender versehentlich auf den Link geklickt, bevor Sie ihn geöffnet haben.",
+    "subtitleOpenedCompromised": "Der Link könnte kompromittiert und von einer anderen Person verwendet worden sein. Bitte kontaktieren Sie den Absender und fordern Sie einen neuen Link an.",
+    "titleBrokenLink": "Fehlerhafter Links",
+    "subtitleBrokenLink": "Stellen Sie sicher, dass der eingegebene Link 100% übereinstimmt, sonst funktioniert die Entschlüsselung nicht.",
+    "titleExpired": "Abgelaufener Link",
+    "subtitleExpired": "Die Verschlüsselungslinks haben eine feste Lebensdauer, die von einer Stunde bis zu einer Woche variiert. Alle Informationen und Daten werden nach Ablauf automatisch gelöscht."
   },
   "result": {
     "title": "Geheimnis in der Datenbank gespeichert",
-    "subtitleDownloadOnce": "Denken Sie daran, dass Geheimnisse nur einmal heruntergeladen werden können, wenn nicht anders festgelegt. Also öffnen Sie den Link nicht selbst.",
-    "subtitleChannel": "Der vorsichtige Benutzer kann den Dechiffrierschlüssel in einem separaten Kommunikationskanal senden.",
-    "rowLabelOneClick": "Ein-Klick-Link",
-    "rowLabelShortLink": "Kurzer Link",
+    "subtitleDownloadOnce": "Öffnen sie den Link nicht selbst! Dieser kann, sofern nicht anders festgelegt, nur einmal heruntergeladen werden..",
+    "subtitleChannel": "Für zusätzliche Sicherheit, können Link und Dechiffrierschlüssel über getrennte Kommunikationskanäle an den Empfänger übermittelt werden.",
+    "rowLabelOneClick": "Komplett-Link",
+    "rowLabelShortLink": "Kurz-Link",
     "rowLabelDecryptionKey": "Dechiffrierschlüssel"
   },
   "secret": {
@@ -72,19 +72,19 @@
   },
   "features": {
     "title": "Geheimnisse sicher und einfach teilen",
-    "subtitle": "ZETTApass dient dazu, um die Menge der in E-Mails und Chats gespeicherten Klartextpasswörter zu eliminieren, indem ein kurzlebiger Link verschlüsselt und generiert wird, der nur einmal angesehen werden kann.",
-    "featureEndToEndTitle": "Ende-zu-Ende-Verschlüsselung",
+    "subtitle": "ZETTApass dient dazu, um die Menge der in E-Mails und Chats geteilten Klartextpasswörter oder andere sensible Inhalte zu eliminieren. ZETTApass generiert mit wenigen Klicks einen einmalig nutzbaren Link für verschlüsselte Texte oder Dateien mit fest definierter Lebensdauer.",
+    "featureEndToEndTitle": "End-zu-End-Verschlüsselung",
     "featureEndToEndText": "Die Ver- und Entschlüsselung wird lokal im Browser durchgeführt. Der Schlüssel wird niemals bei ZETTApass gespeichert.",
     "featureSelfDestructionTitle": "Selbstzerstörung",
     "featureSelfDestructionText": "Verschlüsselte Nachrichten haben eine feste Lebensdauer und werden nach Ablauf automatisch gelöscht.",
     "featureOneTimeTitle": "Einmalige Downloads",
-    "featureOneTimeText": "Die verschlüsselte Nachricht kann nur einmal heruntergeladen werden, was das Risiko verringert, dass jemand Ihre Geheimnisse ausspäht.",
+    "featureOneTimeText": "Die verschlüsselte Nachricht kann nur einmal heruntergeladen werden. Dies reduziert das Risiko, dass die geheimen Daten ausgespäht werden.",
     "featureSimpleSharingTitle": "Einfaches Teilen",
     "featureSimpleSharingText": "ZETTApass generiert einen eindeutigen Link für die verschlüsselte Datei oder Nachricht mit einem Klick. Das Entschlüsselungspasswort kann alternativ separat gesendet werden.",
     "featureNoAccountsTitle": "Keine Konten erforderlich",
-    "featureNoAccountsText": "Die Freigabe sollte schnell und einfach sein; außer dem verschlüsselten Geheimnis werden keine weiteren Informationen in der Datenbank gespeichert.",
+    "featureNoAccountsText": "Die Freigabe ist schnell und einfach. Ausser den verschlüsselten Inhalten werden keine Informationen in der Datenbank zwischengespeichert.",
     "featureOpenSourceTitle": "Open-Source-Software",
-    "featureOpenSourceText": "Die Verschlüsselungsmechanismen von ZETTAapass basieren auf Open-Source-Software, was volle Transparenz mit der Möglichkeit zur Überprüfung und Einreichung von Funktionen bedeutet."
+    "featureOpenSourceText": "Der Verschlüsselungsmechanismus von ZETTApass basiert auf Open-Source-Software. Dies garantiert volle Transparenz hinsichtlich FUnktionalität und Erweiterbarkeit."
   },
   "header": {
     "buttonHome": "Home",
