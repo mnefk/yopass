@@ -30,7 +30,7 @@
     "titleOpened": "Link wurde bereits geöffnet",
     "subtitleOpenedBefore": "Die Verschlüsselung gilt für einen einzigen Download. Möglicherweise hat der Absender versehentlich auf den Link geklickt, bevor Sie ihn geöffnet haben.",
     "subtitleOpenedCompromised": "Der Link könnte kompromittiert und von einer anderen Person verwendet worden sein. Bitte kontaktieren Sie den Absender und fordern Sie einen neuen Link an.",
-    "titleBrokenLink": "Fehlerhafter Links",
+    "titleBrokenLink": "Fehlerhafter Link",
     "subtitleBrokenLink": "Stellen Sie sicher, dass der eingegebene Link 100% übereinstimmt, sonst funktioniert die Entschlüsselung nicht.",
     "titleExpired": "Abgelaufener Link",
     "subtitleExpired": "Die Verschlüsselungslinks haben eine feste Lebensdauer, die von einer Stunde bis zu einer Woche variiert. Alle Informationen und Daten werden nach Ablauf automatisch gelöscht."
@@ -38,7 +38,7 @@
   "result": {
     "title": "Geheimnis in der Datenbank gespeichert",
     "subtitleDownloadOnce": "Öffnen sie den Link nicht selbst! Dieser kann, sofern nicht anders festgelegt, nur einmal heruntergeladen werden..",
-    "subtitleChannel": "Für zusätzliche Sicherheit, können Link und Dechiffrierschlüssel über getrennte Kommunikationskanäle an den Empfänger übermittelt werden.",
+    "subtitleChannel": "Für zusätzliche Sicherheit, können Link und Dechiffrierschlüssel über getrennte Kommunikationskanäle an den Empfänger übermittelt werden. (Kurz-Link)",
     "rowLabelOneClick": "Komplett-Link",
     "rowLabelShortLink": "Kurz-Link",
     "rowLabelDecryptionKey": "Dechiffrierschlüssel"
