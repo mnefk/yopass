@@ -84,7 +84,7 @@
     "featureNoAccountsTitle": "Keine Konten erforderlich",
     "featureNoAccountsText": "Die Freigabe ist schnell und einfach. Ausser den verschlüsselten Inhalten werden keine Informationen in der Datenbank zwischengespeichert.",
     "featureOpenSourceTitle": "Open-Source-Software",
-    "featureOpenSourceText": "Der Verschlüsselungsmechanismus von ZETTApass basiert auf Open-Source-Software. Dies garantiert volle Transparenz hinsichtlich FUnktionalität und Erweiterbarkeit."
+    "featureOpenSourceText": "Der Verschlüsselungsmechanismus von ZETTApass basiert auf Open-Source-Software. Dies garantiert volle Transparenz hinsichtlich Funktionalität und Erweiterbarkeit."
   },
   "header": {
     "buttonHome": "Home",
