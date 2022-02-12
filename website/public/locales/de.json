@@ -72,7 +72,7 @@
   },
   "features": {
     "title": "Geheimnisse sicher und einfach teilen",
-    "subtitle": "ZETTApass dient dazu, um die Menge der in E-Mails und Chats geteilten Klartextpasswörter oder andere sensible Inhalte zu eliminieren. ZETTApass generiert mit wenigen Klicks einen einmalig nutzbaren Link für verschlüsselte Texte oder Dateien mit fest definierter Lebensdauer.",
+    "subtitle": "ZETTApass eliminiert in E-Mails und Chats geteilte und gespeicherte Klartextpasswörter oder andere sensible Inhalte. ZETTApass generiert mit wenigen Klicks einen einmalig nutzbaren Link für verschlüsselte Dateien oder Texte mit fix definierter Lebensdauer.",
     "featureEndToEndTitle": "End-zu-End-Verschlüsselung",
     "featureEndToEndText": "Die Ver- und Entschlüsselung wird lokal im Browser durchgeführt. Der Schlüssel wird niemals bei ZETTApass gespeichert.",
     "featureSelfDestructionTitle": "Selbstzerstörung",
